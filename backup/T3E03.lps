@@ -10,7 +10,7 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos Y="18"/>
-        <UsageCount Value="30"/>
+        <UsageCount Value="31"/>
       </Unit>
       <Unit>
         <Filename Value="uventana.pas"/>
@@ -19,9 +19,9 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="77"/>
-        <CursorPos X="3" Y="157"/>
-        <UsageCount Value="30"/>
+        <TopLine Value="49"/>
+        <CursorPos X="40" Y="61"/>
+        <UsageCount Value="31"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
@@ -31,7 +31,7 @@
         <EditorIndex Value="1"/>
         <TopLine Value="20"/>
         <CursorPos Y="42"/>
-        <UsageCount Value="30"/>
+        <UsageCount Value="31"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
@@ -154,7 +154,7 @@
       </Position>
       <Position>
         <Filename Value="uventana.pas"/>
-        <Caret Line="157" Column="3" TopLine="143"/>
+        <Caret Line="157" Column="3" TopLine="77"/>
       </Position>
     </JumpHistory>
     <RunParams>

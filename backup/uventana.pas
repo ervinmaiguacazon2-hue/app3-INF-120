@@ -49,14 +49,6 @@ type
     procedure Button19Click(Sender: TObject);
     procedure Button1Click(Sender: TObject);
     procedure Button20Click(Sender: TObject);
-    procedure Button21Click(Sender: TObject);
-    procedure Button22Click(Sender: TObject);
-    procedure Button23Click(Sender: TObject);
-    procedure Button24Click(Sender: TObject);
-    procedure Button25Click(Sender: TObject);
-    procedure Button26Click(Sender: TObject);
-    procedure Button27Click(Sender: TObject);
-    procedure Button28Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
     procedure Button3Click(Sender: TObject);
     procedure Button4Click(Sender: TObject);
